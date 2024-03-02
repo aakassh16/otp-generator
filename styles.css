@@ -14,7 +14,7 @@ body{
     --font-color: white;
 }
   ::placeholder {
-    color: var(--font-color)
+    color: var(--font-color);
 }
   section{
     height: 100vh;
